@@ -1,6 +1,6 @@
 {
   "name": "pratamatama/umi",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
