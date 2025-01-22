@@ -1,5 +1,5 @@
 {
-  "name": "pratamatama/umi",
+  "name": "@metaplex-foundation/umi",
   "private": true,
   "workspaces": [
     "packages/*"
